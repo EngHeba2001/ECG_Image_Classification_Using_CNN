@@ -1,3 +1,19 @@
+Project Team members
+1- ziad ahmed
+2- ali barakat
+3- yasmin waled
+4- alaa ahmed
+5-heba ibrahim
+
+
+
+
+
+
+
+
+
+
 # ECG-Image-Classification-Using-CNN
 
 The web app uses a Convolutional Neural Network (CNN) to classify ECG images into six different classes. The six classes are:
